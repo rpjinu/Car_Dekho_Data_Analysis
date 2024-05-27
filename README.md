@@ -2,7 +2,7 @@
 # Car Price Prediction using Linear Regression
 
 ## Project Overview
-This project aims to predict the selling price of a car based on various features such as the car's make, model, year, kilometers driven, fuel type, seller type, transmission, and owner type using linear regression.
+This project aims to predict the selling price of a car based on various features such as the car's make, model, year, kilometers driven, fuel type, seller type, transmission, and owner type using linear regression.\
 #project Tasks:-
 Pre-processing the data.\
 Missing Value Treatment \
